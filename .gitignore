@@ -1,14 +1,4 @@
-__pycache__/
-*.pyc
-.ipynb_checkpoints/
-.DS_Store
-venv/
-env/
 *.csv
-*.parquet
 *.pkl
-.dvc/
-reports/
-data/
-!reports/.gitkeep
-!data/.gitkeep
+venv/
+__pycache__/
